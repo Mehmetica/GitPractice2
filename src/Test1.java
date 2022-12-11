@@ -1,6 +1,8 @@
 public class Test1 {
-    public static void main(String args) {
-rertrtgrfdfd
+    public static void main(String [] args) {
+
+        //asdfsdfsd
+
     }
 
 }
